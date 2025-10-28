@@ -1,0 +1,6 @@
+*.pyc
+Dockerfile
+docker-compose.yml
+.dockerignore
+.venv
+app/migrations/
